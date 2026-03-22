@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npm install",
+    //"build": "npm install", commented out for vercel deployment
     "start": "node index.js",
     "dev": "node --watch index.js"
   },
